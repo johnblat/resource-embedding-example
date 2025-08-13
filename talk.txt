@@ -1,0 +1,24 @@
+1. Who am I 
+
+2. What is resource embedding
+
+3. Talk is meant to overview for deeper inspection. Won't show an "elegant" way to manage this. Won't show how to do it in a super platform independent way. Just the bare-bones needed to do this.
+
+4. Questions:
+- Who here knows of or has used the SDL library?
+- Who here is familiar with stb libraries, specifically stb_image?
+- Who here develops for windows specifically using the VisualC/C++ toolchain?
+- Who here develops for linux?
+- Who here develops for Mac?
+- Who here is familiar with static vs dynamic linking?
+
+
+5. Typical example of accessing resources. What talk is NOT ABOUT :p
+
+6. Resource embedding the Unix-y way with objcopy (Which you can also do on windows)
+	- MINGW64 -> objcopy
+
+7. Resource embedding the Windows specific way
+
+
+

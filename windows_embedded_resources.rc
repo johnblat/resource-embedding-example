@@ -1,0 +1,3 @@
+#include "windows_embedded_resources.h"
+
+WAVING_PERSON_PNG RCDATA "waving-person.png"

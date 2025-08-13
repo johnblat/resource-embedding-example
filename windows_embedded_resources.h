@@ -1,0 +1,1 @@
+#define WAVING_PERSON_PNG 101
